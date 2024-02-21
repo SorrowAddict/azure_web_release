@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "cd public && yarn start && cd .. && cd server && npm start"
+    }
+}
