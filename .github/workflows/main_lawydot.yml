@@ -59,4 +59,4 @@ jobs:
           app-name: 'lawydot'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D5F683442A6A4B93BF378FE2C17DC6C3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A01B7880175E49B8BA1CBAC9183C6CEB }}
